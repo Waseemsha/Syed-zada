@@ -1,0 +1,6 @@
+{
+  "name": "Seller Aspire",
+  "description": "Professional Shipping Sheet and Invoice software for Seller Aspire Industry Pvt Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
